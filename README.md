@@ -5,7 +5,7 @@
 
 <!-- - 🔭 I’m searching for work on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🔭 I’m searching for work.
+<!-- - 🔭 I’m searching for work. -->
 
 - 🌱 I’m currently learning **Flutter & Responsive Designs**
 
