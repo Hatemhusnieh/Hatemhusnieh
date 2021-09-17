@@ -41,13 +41,13 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hatemhusnieh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hatemhusnieh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Hatemhusnieh/"><img alt="Hatemhusnieh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hatemhusnieh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Hatemhusnieh/"><img alt="Hatemhusnieh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hatemhusnieh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hatemhusnieh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Hatemhusnieh/"><img alt="Hatemhusnieh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hatemhusnieh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
